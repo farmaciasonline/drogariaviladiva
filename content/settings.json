@@ -1,24 +1,24 @@
 {
-  "store_id": 3770,
-  "name": "drogariaviladiva",
   "domain": "drogariaviladiva.netlify.app",
-  "short_name": "drogariaviladiva",
-  "description": "drogariaviladiva",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/drogariaviladiva",
+  "logo": "/img/uploads/aurea1.jpg",
+  "name": "drogariaviladiva",
+  "short_name": "drogariaviladiva",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/aurea-logo.jpg",
   "country_code": "BR",
-  "repository": "ecomplus-stores/drogariaviladiva"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/aurea-logo.jpg",
+  "store_id": 3770,
+  "description": "drogariaviladiva",
+  "large_icon": "/img/uploads/aurea-logo.jpg"
 }
