@@ -67,6 +67,59 @@
           "mobile_img": "/img/uploads/09-10_nutraway_mix-gallery-img-2020-10-09-17-08-51.jpeg"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/abbott.png",
+          "mobile_img": "/img/uploads/abbott.png"
+        },
+        {
+          "img": "/img/uploads/astrazeneca.png",
+          "mobile_img": "/img/uploads/astrazeneca.png"
+        },
+        {
+          "img": "/img/uploads/biolab.png",
+          "mobile_img": "/img/uploads/biolab.png"
+        },
+        {
+          "img": "/img/uploads/danone.png",
+          "mobile_img": "/img/uploads/danone.png"
+        },
+        {
+          "img": "/img/uploads/glenmark.png",
+          "mobile_img": "/img/uploads/glenmark.png"
+        },
+        {
+          "img": "/img/uploads/gsk.png",
+          "mobile_img": "/img/uploads/gsk.png"
+        },
+        {
+          "img": "/img/uploads/hyperacinza.png",
+          "mobile_img": "/img/uploads/hyperacinza.png"
+        },
+        {
+          "img": "/img/uploads/johnsons.png",
+          "mobile_img": "/img/uploads/johnsons.png"
+        },
+        {
+          "img": "/img/uploads/myralis.png",
+          "mobile_img": "/img/uploads/myralis.png"
+        },
+        {
+          "img": "/img/uploads/nestle.png",
+          "mobile_img": "/img/uploads/nestle.png"
+        },
+        {
+          "img": "/img/uploads/roche.png",
+          "mobile_img": "/img/uploads/roche.png"
+        },
+        {
+          "img": "/img/uploads/sanofi.png",
+          "mobile_img": "/img/uploads/sanofi.png"
+        }
+      ]
     }
   ]
 }
