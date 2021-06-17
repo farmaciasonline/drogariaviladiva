@@ -38,11 +38,6 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -52,6 +47,23 @@
         {
           "img": "/img/uploads/banner-destaque-theraskin-gallery-img-2020-08-03-15-32-05.jpeg",
           "mobile_img": "/img/uploads/banner-destaque-theraskin-gallery-img-2020-08-03-15-32-05.jpeg"
+        }
+      ]
+    },
+    {
+      "type": "page-title",
+      "title": "Loja demo da E-Com Plus",
+      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-06-17T15:23:00.206Z",
+          "end": "2023-04-01T15:23:25.297Z",
+          "img": "/img/uploads/09-10_nutraway_mix-gallery-img-2020-10-09-17-08-51.jpeg",
+          "mobile_img": "/img/uploads/09-10_nutraway_mix-gallery-img-2020-10-09-17-08-51.jpeg"
         }
       ]
     }
