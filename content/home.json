@@ -52,11 +52,6 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -120,6 +115,11 @@
           "mobile_img": "/img/uploads/sanofi.png"
         }
       ]
+    },
+    {
+      "type": "page-title",
+      "title": "Farmácia Online Aurea Farma: Vantagens para suas compras",
+      "description": "Compre agora e receba em casa com toda comodidade assim como fazem os milhares de clientes que atendemos todos os dias, de todo o Brasil. O mundo digital trouxe diversos benefícios para as pessoas, como permitir a comunicação instantânea, a realização de tarefas em qualquer lugar e até mesmo a compra de diversos itens sem a necessidade de sair de casa. Os avanços chegaram até as farmácias, nas quais vários medicamentos podem ser adquiridos com apenas alguns cliques. Tudo isso garantiu mais praticidade e conforto no dia a dia das pessoas, principalmente para quem precisa de medicamentos de uso contínuo e dos que não podem faltar no estoque. A Aurea Farma é uma farmácia online que se destaca pelos preços baixos, melhores ofertas e entrega rápida de produtos que são importantes na rotina de qualquer pessoa"
     }
   ]
 }
