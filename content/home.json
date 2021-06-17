@@ -64,59 +64,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/abbott.png",
-          "mobile_img": "/img/uploads/abbott.png"
-        },
-        {
-          "img": "/img/uploads/astrazeneca.png",
-          "mobile_img": "/img/uploads/astrazeneca.png"
-        },
-        {
-          "img": "/img/uploads/biolab.png",
-          "mobile_img": "/img/uploads/biolab.png"
-        },
-        {
-          "img": "/img/uploads/danone.png",
-          "mobile_img": "/img/uploads/danone.png"
-        },
-        {
-          "img": "/img/uploads/glenmark.png",
-          "mobile_img": "/img/uploads/glenmark.png"
-        },
-        {
-          "img": "/img/uploads/gsk.png",
-          "mobile_img": "/img/uploads/gsk.png"
-        },
-        {
-          "img": "/img/uploads/hyperacinza.png",
-          "mobile_img": "/img/uploads/hyperacinza.png"
-        },
-        {
-          "img": "/img/uploads/johnsons.png",
-          "mobile_img": "/img/uploads/johnsons.png"
-        },
-        {
-          "img": "/img/uploads/myralis.png",
-          "mobile_img": "/img/uploads/myralis.png"
-        },
-        {
-          "img": "/img/uploads/nestle.png",
-          "mobile_img": "/img/uploads/nestle.png"
-        },
-        {
-          "img": "/img/uploads/roche.png",
-          "mobile_img": "/img/uploads/roche.png"
-        },
-        {
-          "img": "/img/uploads/sanofi.png",
-          "mobile_img": "/img/uploads/sanofi.png"
-        }
-      ]
-    },
-    {
       "type": "page-title",
       "title": "Farmácia Online Aurea Farma: Vantagens para suas compras",
       "description": "Compre agora e receba em casa com toda comodidade assim como fazem os milhares de clientes que atendemos todos os dias, de todo o Brasil. O mundo digital trouxe diversos benefícios para as pessoas, como permitir a comunicação instantânea, a realização de tarefas em qualquer lugar e até mesmo a compra de diversos itens sem a necessidade de sair de casa. Os avanços chegaram até as farmácias, nas quais vários medicamentos podem ser adquiridos com apenas alguns cliques. Tudo isso garantiu mais praticidade e conforto no dia a dia das pessoas, principalmente para quem precisa de medicamentos de uso contínuo e dos que não podem faltar no estoque. A Aurea Farma é uma farmácia online que se destaca pelos preços baixos, melhores ofertas e entrega rápida de produtos que são importantes na rotina de qualquer pessoa."
@@ -135,6 +82,12 @@
       "type": "page-title",
       "title": "Farmácia Delivery: Entregas em todo o Brasil",
       "description": "A comodidade da entrega em casa permite a inclusão desse serviço no seu dia a dia. Você só precisa informar o cep da sua residência que aparecem as opções de entrega e o valor do frete é calculado automaticamente."
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
     }
   ]
 }
