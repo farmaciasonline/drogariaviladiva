@@ -24,22 +24,29 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/21082020224934-copy.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Faureafarma.com.br%2F&hl=pt_BR"
     }
   ],
   "payment_methods": {
     "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
-    "banrisul": false,
+    "aura": true,
+    "banrisul": true,
     "elo": true,
-    "hipercard": false,
-    "hsbc": false,
+    "hipercard": true,
+    "hsbc": true,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
-    "citibank": false,
+    "citibank": true,
+    "hiper": true,
+    "diners": true,
     "mais": false,
+    "amex": true,
     "itau": true
   },
   "credits": ""
