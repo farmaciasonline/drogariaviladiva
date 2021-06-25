@@ -52,6 +52,12 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -62,6 +68,12 @@
           "mobile_img": "/img/uploads/09-10_nutraway_mix-gallery-img-2020-10-09-17-08-51.jpeg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "brands-carousel",
