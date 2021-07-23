@@ -34,9 +34,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "60ca65d6641ad82fcc2a3d9e:categories:Perfumaria:/perfumaria",
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "title": "Ofertas Especiais"
     },
     {
       "type": "banners-grid",
