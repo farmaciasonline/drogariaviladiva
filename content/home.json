@@ -19,6 +19,14 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "60fae0e9cfb89c2ad57270e5:categories:Higiene e Cuidados Pessoais:/higiene-e-cuidados-pessoais",
+      "limit": 12,
+      "page": 1,
+      "title": "Ofertas Especiais"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -34,10 +42,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "60fae0e9cfb89c2ad57270e5:categories:Higiene e Cuidados Pessoais:/higiene-e-cuidados-pessoais",
       "limit": 12,
       "page": 1,
-      "title": "Ofertas Especiais"
+      "title": "Mamães e Bebês",
+      "collection_id": "60ca642e641ad82fcc2a3d2a:categories:Mamães e Bebês:/mamaes-e-bebes"
     },
     {
       "type": "banners-grid",
@@ -57,8 +65,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "title": "Mamães e Bebês",
-      "collection_id": "60ca642e641ad82fcc2a3d2a:categories:Mamães e Bebês:/mamaes-e-bebes"
+      "collection_id": "60ca6355641ad82fcc2a3c81:categories:Saúde e Bem-Estar:/saude-e-bem-estar",
+      "title": "Vistos Recentemente"
     },
     {
       "type": "banner-slider",
@@ -71,14 +79,6 @@
           "mobile_img": "/img/uploads/09-10_nutraway_mix-gallery-img-2020-10-09-17-08-51.jpeg"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "60ca6355641ad82fcc2a3c81:categories:Saúde e Bem-Estar:/saude-e-bem-estar",
-      "title": "Vistos Recentemente"
     },
     {
       "type": "brands-carousel",
