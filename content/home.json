@@ -24,7 +24,8 @@
       "collection_id": "60fae0e9cfb89c2ad57270e5:categories:Higiene e Cuidados Pessoais:/higiene-e-cuidados-pessoais",
       "limit": 12,
       "page": 1,
-      "title": "Ofertas Especiais"
+      "title": "Ofertas Especiais",
+      "sort": "news"
     },
     {
       "type": "banners-grid",
