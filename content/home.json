@@ -41,15 +41,14 @@
       "sort": null
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
         {
-          "img": "/img/uploads/0109-abbott-hyalufem-destaque-gallery-img-2020-09-01-16-46-19.jpeg",
-          "mobile_img": "/img/uploads/0109-abbott-hyalufem-destaque-gallery-img-2020-09-01-16-46-19.jpeg"
-        },
-        {
-          "img": "/img/uploads/banner-destaque-theraskin-gallery-img-2020-08-03-15-32-05.jpeg",
-          "mobile_img": "/img/uploads/banner-destaque-theraskin-gallery-img-2020-08-03-15-32-05.jpeg"
+          "start": "2021-07-30T18:24:10.165Z",
+          "end": "2022-10-01T18:24:10.240Z",
+          "img": "/img/uploads/banner-inverno.jpeg",
+          "mobile_img": "/img/uploads/banner-inverno.jpeg"
         }
       ]
     },
@@ -63,14 +62,15 @@
       "sort": "views"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "2021-07-30T18:24:10.165Z",
-          "end": "2022-10-01T18:24:10.240Z",
-          "img": "/img/uploads/banner-inverno.jpeg",
-          "mobile_img": "/img/uploads/banner-inverno.jpeg"
+          "img": "/img/uploads/0109-abbott-hyalufem-destaque-gallery-img-2020-09-01-16-46-19.jpeg",
+          "mobile_img": "/img/uploads/0109-abbott-hyalufem-destaque-gallery-img-2020-09-01-16-46-19.jpeg"
+        },
+        {
+          "img": "/img/uploads/banner-destaque-theraskin-gallery-img-2020-08-03-15-32-05.jpeg",
+          "mobile_img": "/img/uploads/banner-destaque-theraskin-gallery-img-2020-08-03-15-32-05.jpeg"
         }
       ]
     },
