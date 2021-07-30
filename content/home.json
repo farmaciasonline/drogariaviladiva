@@ -21,11 +21,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "60fae0e9cfb89c2ad57270e5:categories:Higiene e Cuidados Pessoais:/higiene-e-cuidados-pessoais",
+      "collection_id": "60ccc4d2d24de4526fa87d59:categories:Alergia e Gripe:/alergia-e-gripe",
       "limit": 12,
       "page": 1,
       "title": "Ofertas Especiais",
-      "sort": "news"
+      "sort": null
     },
     {
       "type": "banners-grid",
