@@ -108,6 +108,18 @@
       "type": "page-title",
       "title": "Farmácia Delivery: Entregas em todo o Brasil",
       "description": "A comodidade da entrega em casa permite a inclusão desse serviço no seu dia a dia. Você só precisa informar o cep da sua residência que aparecem as opções de entrega e o valor do frete é calculado automaticamente."
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-07-30T18:24:10.165Z",
+          "end": "2021-07-30T18:24:10.240Z",
+          "img": "/img/uploads/banner-inverno.jpeg",
+          "mobile_img": "/img/uploads/banner-inverno.jpeg"
+        }
+      ]
     }
   ]
 }
