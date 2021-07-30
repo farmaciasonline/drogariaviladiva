@@ -5,6 +5,11 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/dorflex.jpg",
+      "mobile_img": "/img/uploads/dorflex.jpg"
+    },
+    {
       "type": "page-title"
     },
     {
