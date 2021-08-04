@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1df18625c908d23d4373813fa04b19db.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.cd3e514f61d74d24bbb0712b972a01fc.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.78c897b755e715c68c871911c79be5d1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.00cf733b192068daf6e3c54456d01294.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.75cb49a56bc3883a75544afd5f7e0055.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Aureafarma",
+  "short_name": "Aureafarma",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sua Farmácia Online 24 horas. Medicamentos, remédios genéricos, dermocosméticos, itens de cuidado diário, produtos para crianças e muito mais.",
+  "background_color": "#ffffff",
+  "theme_color": "#ae8300"
+}
