@@ -80,9 +80,10 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "60ccc52cd24de4526fa87d8b:categories:Remédio para Diabetes:/remedio-para-diabetes",
-      "title": "Diabetes",
-      "sort": "views"
+      "collection_id": "60ccc64ad24de4526fa87e03:categories:Remédios para Saúde da Mulher:/remedios-para-saude-da-mulher",
+      "title": "Para Contracepção",
+      "sort": "views",
+      "link": "https://aureafarma.com.br/remedios-para-saude-da-mulher"
     },
     {
       "type": "banner-slider",
